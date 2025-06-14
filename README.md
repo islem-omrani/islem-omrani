@@ -50,7 +50,8 @@ Feel free to connect or collaborate with me!
 
 ## 🧠 Languages & Technologies Used in My Projects
 
-![Tech Usage](C:\Users\islem\Downloadsgithub_languages_custom_pie (1).png)
+<img src="https://github.com/islem-omrani/islem-omrani/blob/main/langUsed.png?raw=true" width="400" alt="Tech Usage" />
+
 
 
 
