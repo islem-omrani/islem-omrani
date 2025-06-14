@@ -24,10 +24,7 @@ Feel free to connect or collaborate with me!
 📫 **Contact Me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](islemomrani1005@gmail.com)  
 
-
----
 
 ## ⚡ Technologies I Use
 
