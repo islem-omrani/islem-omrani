@@ -6,9 +6,8 @@
 
 ## Fancy seeing you here! 🖐️
 
-I am a student in IT and next year I’ll be working on my final year project (PFE).  
-I’m passionate about building efficient and scalable web applications.  
-I'm  always eager to learn new technologies.  
+I am an IT student in my final year of high school, passionate about building efficient and scalable web applications.  
+I’m always eager to learn new technologies and strengthen my skills.  
 Feel free to connect or collaborate with me!
 
 </td>
