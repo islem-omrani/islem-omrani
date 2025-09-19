@@ -6,7 +6,8 @@
 
 ## Fancy seeing you here! 🖐️
 
-I am an IT student in my final year of high school, passionate about building efficient and scalable web applications.  
+I am an IT student in my final year of high school, passionate about building 
+efficient and scalable web applications.  
 I’m always eager to learn new technologies and strengthen my skills.  
 Feel free to connect or collaborate with me!
 
